@@ -1,9 +1,9 @@
 ﻿
-const date = "202408";       
+const date = "20240801";       
 const time_period = "m";      
 
 // Базовий URL НБУ
-const baseUrl = "https://bank.gov.ua/NBUStatService/v1/statdirectory/banks_income_expenses";
+const baseUrl = "https://bank.gov.ua/NBUStatService/v1/statdirectory/banksincexp";
 
 // Створюємо обʼєкт URL
 const url = new URL(baseUrl);
